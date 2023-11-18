@@ -1,4 +1,4 @@
-![](https://github.com/Zazaaw/TugasAkhirPW_Hogwarts/blob/pic1.png)
+![](https://github.com/Zazaaw/TugasAkhirPW_Hogwarts/blob/main/blob/pic1.png)
 
 # Hogwarts International School Front-End Design
 
