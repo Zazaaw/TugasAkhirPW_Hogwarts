@@ -23,6 +23,9 @@ git clone https://github.com/Zazaaw/TugasAkhirPW_Hogwarts.git
 - React
 - SCSS
 
+## Contribute by
+- [Faiz Hazim Hawari](https://www.instagram.com/faizhazimhawarii/) as Lead Project
+- [Muhammad Syafrie Hakim](https://www.instagram.com/mhdsyafriehakim/) as Co-Lead
 
 ##
 
