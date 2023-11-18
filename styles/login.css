@@ -1,0 +1,250 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-5w7 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.login-5w7 .background-CVw {
+  width: 166.2rem;
+  height: 274rem;
+  position: absolute;
+  left: 0;
+  top: 24.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5w7 .ellipse-2-2js {
+  width: 36.8rem;
+  height: 36.8rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 7.8rem;
+  filter: blur(17.75rem);
+  background-color: #04b46b;
+  border-radius: 18.4rem;
+}
+.login-5w7 .login-bar-jPP {
+  box-sizing: border-box;
+  padding: 1.9rem 8.914rem 6.321rem 7.8rem;
+  width: 106.7143rem;
+  height: 49.8rem;
+  position: absolute;
+  left: 18.6rem;
+  top: 26.3rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-6.png');
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH {
+  width: 100%;
+  height: 38.7rem;
+  display: flex;
+  align-items: center;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB {
+  margin: 4.3rem 9.3rem 1.7rem 0rem;
+  width: 41.3rem;
+  height: calc(100% - 6rem);
+  flex-shrink: 0;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB .title-header-TCu {
+  margin-bottom: 7.5rem;
+  font-size: 7.5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000000;
+  font-family: Google Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB .sub-header-2-yBF {
+  margin-bottom: 1.4rem;
+  max-width: 41.3rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #1c1c1c;
+  font-family: Google Sans, 'Source Sans Pro';
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB .auto-group-u8ju-VfP {
+  margin: 0rem 16.331rem 1.088rem 0rem;
+  box-sizing: border-box;
+  padding: 1.151rem 1.338rem 1.512rem 2.45rem;
+  width: calc(100% - 16.3306rem);
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract.png');
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB .auto-group-u8ju-VfP .text-Pkm {
+  margin: 0.249rem 7.352rem 0rem 0rem;
+  width: 11.6rem;
+  flex-shrink: 0;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB .auto-group-u8ju-VfP .text-Pkm .sub-header-3-Xc5 {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(23, 23, 23, 0.3000000119);
+  font-family: Google Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB .auto-group-u8ju-VfP .text-Pkm .sub-header-4-Sj3 {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(23, 23, 23, 0.3000000119);
+  font-family: Google Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB .auto-group-u8ju-VfP .icon-mmK {
+  margin-bottom: 0.0717rem;
+  height: 6.4769rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB .auto-group-u8ju-VfP .icon-mmK .vector-VxD {
+  margin-bottom: 2.8787rem;
+  width: 2.2294rem;
+  height: 2.1589rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB .auto-group-u8ju-VfP .icon-mmK .vector-3D3 {
+  width: 2.2294rem;
+  height: 1.4393rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .auto-group-qdcw-LPB .sub-header-5-xqo {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1;
+  text-decoration-line: underline;
+  color: #ffc50c;
+  font-family: Google Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .photo-2-Vaq {
+  width: 39.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .photo-2-Vaq .ellipse-15-EoK {
+  width: 31.5rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 7.2rem;
+  background-color: #ffc50d;
+  border-radius: 15.75rem;
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .photo-2-Vaq .foto2-mHT {
+  width: 39.4rem;
+  height: 32.7rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 120.489%;
+  background-position: 0rem 0;
+  background-image: url('../assets/foto2.png');
+}
+.login-5w7 .login-bar-jPP .auto-group-viw5-cCH .photo-2-Vaq .auto-group-xvpx-s5b {
+  width: 31.5rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 7.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5w7 .login-bar-jPP .login-kecil-b1b {
+  width: 13.6387rem;
+  height: 2.8786rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffc50c;
+  font-family: Google Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffc50c;
+  box-sizing: border-box;
+  border-radius: 9.6rem;
+}
+.login-5w7 .group-2-qgd {
+  width: 20rem;
+  height: 6.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 8.2rem;
+  top: 3.8rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-7.png');
+  border-radius: 1.5rem;
+}
+.login-5w7 .vector-6-J4R {
+  width: 6.95rem;
+  height: 6rem;
+  position: absolute;
+  left: 25.1rem;
+  top: 20.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-5w7 .vector-7-d6h {
+  width: 12.35rem;
+  height: 10.25rem;
+  position: absolute;
+  left: 112.9rem;
+  top: 69.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}

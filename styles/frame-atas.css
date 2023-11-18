@@ -1,0 +1,60 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 602.8rem;
+}.frame-atas-gQ1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-atas-gQ1 .component-cHf {
+  margin-right: 115.7rem;
+  font-size: 12.8rem;
+  font-weight: 700;
+  line-height: 1.0419999361;
+  color: #ffffff;
+  font-family: Google Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-atas-gQ1 .wireframe-j7P {
+  margin-right: 128.5rem;
+  font-size: 12.8rem;
+  font-weight: 700;
+  line-height: 1.0419999361;
+  color: #ffffff;
+  font-family: Google Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-atas-gQ1 .ui-ux-rxh {
+  margin-right: 105.7rem;
+  font-size: 12.8rem;
+  font-weight: 700;
+  line-height: 1.0419999361;
+  color: #ffffff;
+  font-family: Google Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-atas-gQ1 .ui-ux-dark-mode-osw {
+  font-size: 12.8rem;
+  font-weight: 700;
+  line-height: 1.0419999361;
+  color: #ffffff;
+  font-family: Google Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
